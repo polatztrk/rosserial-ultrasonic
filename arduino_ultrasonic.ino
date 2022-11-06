@@ -1,10 +1,4 @@
-// ---------------------------------------------------------------- //
-// Arduino Ultrasoninc Sensor HC-SR04
-// Re-writed by Arbi Abdul Jabbaar
-// Using Arduino IDE 1.8.7
-// Using HC-SR04 Module
-// Tested on 17 September 2019
-// ---------------------------------------------------------------- //
+
 #include <ros.h>
 #include <std_msgs/Float32.h>
 #define echoPin 9// attach pin D2 Arduino to pin Echo of HC-SR04
